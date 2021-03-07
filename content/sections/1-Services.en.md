@@ -1,21 +1,21 @@
 ---
 anchor: "Services"
-header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+header: "Apartments"
+subheader: "Enjoy your stay in Valkanela apartments."
 services: [
   {
     iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
+    header: "Remote Work Apartment",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     iconName: "LaptopIcon",
-    header: "Responsive Design",
+    header: "Short Stay Apartment",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     iconName: "LockIcon",
-    header: "Web Security",
+    header: "Best Sea View Apartment",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   }
 ]
