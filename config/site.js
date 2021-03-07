@@ -17,5 +17,7 @@ module.exports = {
   langTextMap: {
     en: "English",
     ja: "日本語",
+    de: "Deutsch",
+    it: "Italiano",
   },
 };
