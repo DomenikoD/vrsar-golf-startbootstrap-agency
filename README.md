@@ -1,3 +1,3 @@
 # Vrsar Golf - Apartmans - Gatsby
 
-Static content
+Static content.
