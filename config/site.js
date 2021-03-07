@@ -19,5 +19,6 @@ module.exports = {
     ja: "日本語",
     de: "Deutsch",
     it: "Italiano",
+    hr: "Hrvatski",
   },
 };

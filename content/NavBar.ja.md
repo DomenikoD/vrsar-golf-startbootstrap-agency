@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Valkanela Accomodation"
 menuText: "メニュー "
 ---
