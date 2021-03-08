@@ -34,6 +34,12 @@ const Contact = ({ className, frontmatter }) => {
             {email}
           </a>
         </Col>
+        <Col lg={4} className="mr-auto text-center">
+          <Icon iconName="PhoneIcon" size="3x" className="text-muted mb-3" />
+          <a className="d-block" href="https://wa.me/38598335089?text=I'm%20interested%20in%20your%20apartmant">
+            WhatsApp 
+          </a>
+        </Col>
       </Row>
     </PageSection>
   );
