@@ -1,5 +1,5 @@
 ---
-anchor: "Apartments"
+anchor: "Portfolio"
 header: "Apartments"
 subheader: "Make sure you reserve your spot in this apartment as soon as possible!"
 portfolios: [

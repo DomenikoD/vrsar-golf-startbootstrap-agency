@@ -1,9 +1,6 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Start Bootstrap 2021"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
 }
 privacyText: "Privacy Policy"
 privacyHref: "#!"

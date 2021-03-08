@@ -14,6 +14,7 @@ import {
   faLinkedinIn,
   faGithubAlt,
   faMediumM,
+  faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 
 export const PhoneIcon = makeFAIcon(faPhone);
@@ -28,5 +29,6 @@ export const LanguageIcon = makeFAIcon(faGlobe);
 export const TwitterIcon = makeFAIcon(faTwitter);
 export const FacebookIcon = makeFAIcon(faFacebookF);
 export const LinkedinIcon = makeFAIcon(faLinkedinIn);
+export const InstagramIcon = makeFAIcon(faInstagram);
 
 export * from "config/CustomIcons";

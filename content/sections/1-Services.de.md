@@ -1,5 +1,5 @@
 ---
-anchor: "Features"
+anchor: "Services"
 header: "Apartment Features"
 subheader: "Enjoy your stay in Valkanela apartments."
 services: [
