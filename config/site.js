@@ -1,15 +1,6 @@
 module.exports = {
   title: "Valkanela Apartments Accommodation",
-  keywords: [
-    "gatsby",
-    "gatsbyjs",
-    "landing page",
-    "landing",
-    "i18n",
-    "eslint",
-    "bootstrap",
-    "startbootstrap-agency",
-  ],
+  keywords: ["valkanela", "apartments", "accomodation", "vrsar", "sommer"],
   description: "Valkanela Apartments Accommodation",
   author: "Domeniko",
   trackingId: "UA-119418003-5",

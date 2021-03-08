@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To St. Valkanela!"
+header: "Dobrodošli u Valkanela apartmane"
+subheader: "Pronađite mjesto za sebe!"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"
-jumpToAnchorText: "Explore"
+jumpToAnchorText: "Vidi smještaj"
 ---
