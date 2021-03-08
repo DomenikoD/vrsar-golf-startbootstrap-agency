@@ -1,8 +1,5 @@
 ---
 clients: [
-  {
-    imageFileName: "",
-    href: "#!"
-  },
+
 ]
 ---
