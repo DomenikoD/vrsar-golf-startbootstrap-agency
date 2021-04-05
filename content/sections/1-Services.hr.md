@@ -6,7 +6,7 @@ services: [
   {
     iconName: "ShoppingCartIcon",
     header: "Prigodni za Remote Work",
-    content: "Stabilna i brza internet veza. Garancija efikasnog rada. Besplatna kava cijelo vrijeme."
+    content: "Stabilna i brza internet veza. Garancija efikasnog rada."
   },
   {
     iconName: "LaptopIcon",

@@ -6,7 +6,7 @@ services: [
   {
     iconName: "ShoppingCartIcon",
     header: "Remote Work Apartment",
-    content: "Stable and fast connection. Productive work guarantee. Free coffe all the time."
+    content: "Stable and fast connection. Productive work guarantee."
   },
   {
     iconName: "LaptopIcon",
