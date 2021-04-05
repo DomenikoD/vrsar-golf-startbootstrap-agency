@@ -23,16 +23,6 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/2.jpg",
-    header: "Tatjana",
-    subheader: "Lead Marketer",
-    social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
-    }
-  },
-  {
     imageFileName: "team/3.jpg",
     header: "Domeniko",
     subheader: "Support",
