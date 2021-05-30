@@ -1,5 +1,5 @@
 ---
-header: "It's Nice To Meet You"
+header: "Find your place"
 subheader: "Welcome To St. Valkanela!"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Services"

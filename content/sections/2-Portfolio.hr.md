@@ -6,50 +6,42 @@ portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Nona A2",
-    subheader: "Normal",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
+    header: "Apartment A2",
+    subheader: "Za divje osobe",
+    content: "Apartman za divje osobe. Potpuno opremljen.",
+    extraInfo: ["Terasa", "Vrz","SAT-TV", "Klima", "WiFI", "Parking"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Nona A2 Studio",
-    subheader: "Small",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
+    header: "Apartment A2",
+    subheader: "Za divje osobe",
+    content: "Apartman za divje osobe. Potpuno opremljen.",
+    extraInfo: ["Terasa", "Vrz","SAT-TV", "Klima", "WiFI", "Parking"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-full.jpg",
-    header: "Doro A2",
-    subheader: "Big",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Free: now", "Price: 50-70€", "About: Identity"]
+    header: "Terasa",
+    subheader: "Terasa",
+    content: "Apartman za divje osobe. Potpuno opremljen",
+    extraInfo: ["Terrace", "Garden","SAT-TV", "AirCondition", "WiFI", "Parking"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Lines",
-    subheader: "Branding",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
+    header: "Dvorište",
+    subheader: "Dvorište",
+    content: "Vrt",
+    extraInfo: ["Vrt"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Southwest",
-    subheader: "Website Design",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
-  },
-  {
-    imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
-    subheader: "Photography",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
+    header: "St. Valkanela",
+    subheader: "Dron view",
+    content: "Stancija Valkanela - Vrsar",
+    extraInfo: ["Valkanela"]
   }
 ]
 ---
