@@ -32,7 +32,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/04-full.jpg",
     header: "Dvorište",
     subheader: "Dvorište",
-    content: "Vrt                                      ",
+    content: "Vrt                                      .",
     extraInfo: ["Vrt"]
   },
   {
