@@ -40,7 +40,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "St. Valkanela",
     subheader: "Dron view",
-    content: "Stancija Valkanela - Vrsar",
+    content: "Stancija Valkanela - Vrsar - Istra - Croatia",
     extraInfo: ["Valkanela"]
   }
 ]
