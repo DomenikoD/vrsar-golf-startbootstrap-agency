@@ -46,10 +46,10 @@ portfolios: [
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
     imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
-    subheader: "フォトショップ",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+    header: "Investment",
+    subheader: "Price on request. Build up to 700 m2",
+    content: "Building plot 1.176 m2 + land 3.226 m2, two floors 350m2 each.",
+    extraInfo: ["Local support on the project development", "Two floors 350m2 each", "Up to 5 Units", "Pool"]
   }
 ]
 ---
