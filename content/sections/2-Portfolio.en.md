@@ -37,9 +37,9 @@ portfolios: [
   }, 
   {
     imageFileName: "portfolio/dom-app1-full.jpg",
-    imageFileNameDetail: "portfolio/dom-app1-full.jpeg",
-    header: "Apartment A2+2.",
-    subheader: "Garden",
+    imageFileNameDetail: "portfolio/dom-app1-full.jpg",
+    header: "Apartment A2+2",
+    subheader: "For 2-4 persons",
     content: "Apartment for up to for persons. Fully Equipped.",
     extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking"]
   },

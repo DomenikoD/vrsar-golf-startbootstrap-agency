@@ -17,14 +17,14 @@ portfolios: [
     header: "Apartment A2",
     subheader: "Za divje osobe",
     content: "Apartman za divje osobe. Potpuno opremljen.",
-    extraInfo: ["Terasa", "Vrz","SAT-TV", "Klima", "WiFI", "Parking"]
+    extraInfo: ["Terasa", "Vrt","SAT-TV", "Klima", "WiFI", "Parking"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
     imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Terasa",
     subheader: "Terasa",
-    content: "Apartman za divje osobe. Potpuno opremljen",
+    content: "Apartman za dvije osobe. Potpuno opremljen",
     extraInfo: ["Terrace", "Garden","SAT-TV", "AirCondition", "WiFI", "Parking"]
   },
   {
@@ -37,10 +37,10 @@ portfolios: [
   }, 
   {
     imageFileName: "portfolio/dom-app1-full.jpg",
-    imageFileNameDetail: "portfolio/dom-app1-full.jpeg",
-    header: "Apartment A2+2.",
-    subheader: "Garden",
-    content: "Apartment for up to for persons. Fully Equipped.",
+    imageFileNameDetail: "portfolio/dom-app1-full.jpg",
+    header: "Apartment A2+2",
+    subheader: "For 2-4 persons",
+    content: "Apartman za dvije do četiri osobe. Potpuno opremljen.",
     extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking"]
   },
   {
