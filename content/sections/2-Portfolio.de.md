@@ -17,7 +17,7 @@ portfolios: [
     header: "Apartment A2",
     subheader: "For two persons",
     content: "Apartment for two persons. Fully Equipped.",
-    extraInfo: ["Terrace", "Garden","SAT-TV", "AirCondition", "WiFI", "Parking"]
+    extraInfo: ["Terrace", "Garden","SAT-TV", "AirCondition", "WiFi", "Parking"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
@@ -25,7 +25,7 @@ portfolios: [
     header: "Front side",
     subheader: "Front side",
     content: "Apartment for for persons. Fully Equipped",
-    extraInfo: ["Terrace", "Garden","SAT-TV", "AirCondition", "WiFI", "Parking"]
+    extraInfo: ["Terrace", "Garden","SAT-TV", "AirCondition", "WiFi", "Parking"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
@@ -34,6 +34,14 @@ portfolios: [
     subheader: "Garden",
     content: "Nice big garden with the sea view.",
     extraInfo: ["Garden"]
+  },
+  {
+    imageFileName: "portfolio/dom-app1-full.jpg",
+    imageFileNameDetail: "portfolio/dom-app1-full.jpeg",
+    header: "Apartment A2+2.",
+    subheader: "Garden",
+    content: "Apartment for up to for persons. Fully Equipped.",
+    extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",

@@ -34,6 +34,14 @@ portfolios: [
     subheader: "Garden",
     content: "Nice big garden with the sea view.",
     extraInfo: ["Garden"]
+  }, 
+  {
+    imageFileName: "portfolio/dom-app1-full.jpg",
+    imageFileNameDetail: "portfolio/dom-app1-full.jpeg",
+    header: "Apartment A2+2.",
+    subheader: "Garden",
+    content: "Apartment for up to for persons. Fully Equipped.",
+    extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
