@@ -44,6 +44,14 @@ portfolios: [
     extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking"]
   },
   {
+    imageFileName: "portfolio/doro-app1-full.jpg",
+    imageFileNameDetail: "portfolio/doro-app1-full.jpg",
+    header: "Apartment A4",
+    subheader: "Two bedrooms apartment for 2-4 persons",
+    content: "Apartment for up to for persons. Fully Equipped. With the see view.",
+    extraInfo: ["Terrace", "Garden","Sat-TV", "AirCondition", "WiFi", "Parking", https://drive.google.com/drive/u/0/folders/10jzHR63YhbYAfA6hS5sjrryfykKegZln]
+  },
+  {
     imageFileName: "portfolio/05-thumbnail.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "St. Valkanela",

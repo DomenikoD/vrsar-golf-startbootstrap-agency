@@ -42,6 +42,13 @@ portfolios: [
     subheader: "For 2-4 persons",
     content: "Apartment for up to for persons. Fully Equipped.",
     extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking"]
+  },  {
+    imageFileName: "portfolio/doro-app1-full.jpg",
+    imageFileNameDetail: "portfolio/doro-app1-full.jpg",
+    header: "Apartment A4",
+    subheader: "Two bedrooms apartment for 2-4 persons",
+    content: "Apartment for up to for persons. Fully Equipped. With the see view.",
+    extraInfo: ["Terrace", "Garden","Sat-TV", "AirCondition", "WiFi", "Parking"]
   },
   {
     imageFileName: "portfolio/05-thumbnail.jpg",
