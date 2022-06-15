@@ -41,7 +41,7 @@ portfolios: [
     header: "Apartment A2+2",
     subheader: "For 2-4 persons",
     content: "Apartment for up to for persons. Fully Equipped.",
-    extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking"]
+    extraInfo: ["Terrace", "Garden","Netflix-TV", "AirCondition", "WiFi", "Parking", "https://drive.google.com/drive/u/0/folders/1C8Ku2H0Dof7FdvbJC8lPWmTOPySUzber"]
   },   
   {
     imageFileName: "portfolio/doro-app1-full.jpeg",
