@@ -51,6 +51,7 @@ module.exports = {
       },
     },
     "gatsby-plugin-eslint",
+    "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
