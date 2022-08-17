@@ -10,19 +10,12 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-google-gtag`,
+      resolve: "gatsby-plugin-google-analytics",
       options: {
-        // You can add multiple tracking ids and a pageview event will be fired for all of them.
-        trackingIds: [
-          "G-PH7N39GXNT", // Google Analytics / GA
-        ],
-        // This object is used for configuration specific to this plugin
-        pluginConfig: {
-          // Puts tracking script in the head instead of the body
-          head: true,
-        },
+        trackingId,
       },
     },
+    "gatsby-plugin-image",
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -51,16 +44,22 @@ module.exports = {
       },
     },
     "gatsby-plugin-eslint",
-    "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
-    "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-transformer-sharp",
+      options: {
+        checkSupportedExtensions: false,
+      },
+    },
     "gatsby-plugin-offline",
     {
       resolve: "gatsby-plugin-sass",
       options: {
-        data: `@import "core.scss";`,
-        includePaths: [path.resolve(__dirname, "src/style")],
+        additionalData: `@import "core.scss";`,
+        sassOptions: {
+          includePaths: [path.resolve(__dirname, "src/style")],
+        },
       },
     },
     {
